@@ -1,0 +1,8 @@
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\bin\Debug\SalesManagement.exe.config
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\bin\Debug\SalesManagement.exe
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\bin\Debug\SalesManagement.pdb
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\bin\Debug\Dapper.dll
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\bin\Debug\Dapper.xml
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\obj\Debug\SalesManagement.exe
+C:\Users\Papak\Documents\Visual Studio 2017\Projects\DapperExamples\SalesManagement\obj\Debug\SalesManagement.pdb
